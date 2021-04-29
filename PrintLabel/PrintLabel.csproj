@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net5.0-windows</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ApplicationIcon>Resources\Img\print.ico</ApplicationIcon>
+    <Win32Resource></Win32Resource>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="Interop.LabelManager2">
+      <HintPath>..\..\..\..\Desktop\TestDemo\bin\Debug\Interop.LabelManager2.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
