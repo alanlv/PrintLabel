@@ -10,4 +10,11 @@
 #### other目录
     测试案例与文档
 #### Add ZPL
+    ZPL 指令打印可以省去调用模板，连接打印机后通过端口可以直接打印
+    ^XA
+    ^FO50,60^A0,40^FDWorld's Best Griddle^FS
+    ^FO60,120^BY3^BCN,60,,,,A^FD1234ABC^FS
+    ^FO25,25^GB380,200,2^FS
+    ^XZ
+
 ![img](https://fyg1998.github.io/Picture/zpl.png)
