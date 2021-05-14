@@ -9,3 +9,5 @@
     导入csv文件, 调用codesoft7 label图档实现批量打印label
 #### other目录
     测试案例与文档
+#### Add ZPL
+![img](https://github.com/FYG1998/PrintLabel/Images/zpl.png)
