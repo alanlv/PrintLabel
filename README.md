@@ -10,4 +10,4 @@
 #### other目录
     测试案例与文档
 #### Add ZPL
-![img](https://github.com/FYG1998/PrintLabel/Images/zpl.png)
+![img](https://fyg1998.github.io/Picture/zpl.png)
