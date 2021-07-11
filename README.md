@@ -20,4 +20,4 @@
     ^FO25,25^GB380,200,2^FS
     ^XZ
 
-<img  src="https://naiop.github.io/mimages/picture/zpl.png" width="30%"  />
+<img src="https://naiop.github.io/mimages/picture/plc.png" width="30%"  />
